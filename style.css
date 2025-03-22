@@ -73,7 +73,7 @@ nav{
         justify-content: center;
         img{
             width: clamp(20rem, 40vw, 40rem);
-            aspect-ratio: 1.0;
+            aspect-ratio: 0.9;
             border-radius: 30px;
         }
     }
